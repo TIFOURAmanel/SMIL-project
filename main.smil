@@ -29,17 +29,13 @@
 <body>
         <seq>
     
-           <!-- <par>
-         <smilText 
-         region="textleft" 
-         textFontFamily="Gotham Rounded, Arial Rounded MT Bold" 
-            textColor="#CCCCCC" 
-            dur="18s" 
-            textSize="40px" 
-            textWeight="bold">
-            hnaya aktbi texte li raki haba dirih
-            </smilText>
-            </par> -->
+           
+
+
+           
+
+-----------------------------------------------historique-------------------------------------
+
 
             <par>
              <smilText region="centerRegion3" dur="5s"   textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold" xml:space="preserve" >                  Parlons un peu de l'histoire de
@@ -66,70 +62,77 @@
     C’est au sein de l’armée qu’est née l’idée
     de concevoir des robots chirurgicaux capables 
     d’opérer à distance des soldats blessés en zone
-    de guerre, c’est le professeur Jacques Marescaux
-    qui a marqué l’histoire, en effectuant le 7
-    septembre 2001, l’ablation d’une vésicule biliaire
-    sur une patiente de 68 ans basée à Strasbourg,
-    en France alors qu’il se trouvait à New York.
+    de guerre, c’est le professeur Jacques
+    Marescaux qui a marqué l’histoire, en 
+    effectuant le 7 septembre 2001, l’ablation
+    d’une vésicule biliaire sur une patiente de
+    68 ans basée à Strasbourg, en France alors
+    qu’il se trouvait à New York.
     Cet acte effectué par un système robotisé nommé
-    Zeus grâce à la liaison d’une fibre optique dédiée
-    a été un véritable succès. Baptisée «opération Lindbergh»,
-    il a ouvert la voie à de nombreux confrères 
+    Zeus grâce à la liaison d’une fibre optique
+    dédiée a été un véritable succès. Baptisée
+    «opération Lindbergh», il a ouvert la voie
+    à de nombreux confrères.
              </smilText>
-             <img src="war.png" top="50px" region="rightRegion" dur="5s"/>
+             <img src="war.png" top="80px" region="rightRegion" dur="5s" left="140px" />
             </par>
 
             <par>
-             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" >   
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" xml:space="preserve" >   
              <br/>
-             En 2019: <br/>
-             En Chine, une neurostimulation 
-             du cerveau a été réalisée
-             par le docteur Ling Zhipei,
-             à plus de 3000 kilomètres sur
-             un patient atteint de la maladie
-             de Parkinson.
+             <br/>
+        En 2019: <br/>  <br/>
+      En Chine, une neurostimulation 
+      du cerveau a été réalisée
+      par le docteur Ling Zhipei,
+      à plus de 3000 kilomètres sur
+      un patient atteint de la maladie
+      de Parkinson.
              </smilText>
-             <img src="china.png" region="rightRegion" dur="5s"/>
+             <img src="china.png" region="rightRegion" dur="5s" top="130px" left="100px"/>
             </par> 
 
 
             <par>
-             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" >
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" xml:space="preserve" >
               <br/>
-              En 2021 : <br/>
-              Un patient situé à Haikou, dans
-              la province chinoise de Hainan (sud),
-              a subi une opération de remplacement
-              total de la hanche avec l'assistance
-              d'un robot équipé de la technologie
-              5G en utilisant les réseaux sans fil.
+               <br/>
+         En 2021 : <br/>  <br/>
+      Un patient situé à Haikou, dans
+      la province chinoise de Hainan (sud),
+      a subi une opération de remplacement
+      total de la hanche avec l'assistance
+      d'un robot équipé de la technologie
+      5G en utilisant les réseaux sans fil.
              </smilText>
-             <img src="hos.png" region="rightRegion" dur="5s"/>
+             <img src="hos.png" region="rightRegion" dur="5s" top="120px" left="80px"/>
             </par>
 
              <par>
-             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" > 
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" xml:space="preserve" > 
               <br/>
-              Le 11 septembre 2024: <br/>
-              Une prouesse médicale a été réalisée
-              depuis Bordeaux, le Dr Alberto Breda,
-              président de la Société Européenne
-              d’Urologie, a mené à distance une
-              opération chirurgicale sur un patient
-              chinois de 37 ans atteint d'une tumeur
-              au rein. Grâce à la téléchirurgie,
-              il a contrôlé à 8 000 km de là un robot
-              chirurgical, retirant avec succès la tumeur. 
+              <br/>
+      Le 11 septembre 2024: <br/>
+      Une prouesse médicale a été réalisée
+      depuis Bordeaux, le Dr Alberto Breda,
+      président de la Société Européenne
+      d’Urologie, a mené à distance une
+      opération chirurgicale sur un patient
+      chinois de 37 ans atteint d'une tumeur
+      au rein. Grâce à la téléchirurgie,
+      il a contrôlé à 8 000 km de là un robot
+      chirurgical, retirant avec succès la tumeur. 
              </smilText>
-             <img src="doctor.png" region="rightRegion" dur="10s"/>
+             <img src="doctor.png" region="rightRegion" dur="10s" top="60px" left="130px"/>
             </par>
 
 
 
 
 
+ 
 
+  --------------------------------------------IMPACT------------------------------------------------- 
 
 
 
@@ -170,28 +173,28 @@
             </par>
 
             <par>
-             <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >         L’agrandissement du champ opératoire
+             <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >               L’agrandissement du champ opératoire
              </smilText>
-             <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >   Le robot zoome sur les zones clés pour une meilleure visibilité de la zone à opérer.
+             <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  > <br/>        Le robot zoome sur les zones clés pour une meilleure visibilité de la zone à opérer.
              </smilText>
-             <img src="realImg.png" region="rightRegion" dur="5s" />
-             <img src="manipulation.png" region="leftRegion" dur="5s" />
+             <img src="realImg.png" region="rightRegion" dur="5s" top="200px" left="70px"/>
+             <img src="manipulation.png" region="leftRegion" dur="5s" top="200px" left="50px"/>
              
             </par>
 
             <par>
-            <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >  La vision 3D
+            <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >                            La vision 3D
              </smilText>
-            <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >   Elle permet de visualiser les organes dans leur ensemble, avec leurs reliefs et leurs aspérités.
+            <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >   <br/>       Elle permet de visualiser les organes dans leur ensemble, avec leurs reliefs et leurs aspérités.
              </smilText>
-             <img src="realImg2.png" region="rightRegion" dur="5s" />
-             <img src="manipulation2.png" region="leftRegion" dur="5s" />
+             <img src="realImg2.png" region="rightRegion" dur="5s" top="200px" left="300px" />
+             <img src="manipulation2.png" region="leftRegion" dur="5s" top="200px" left="50px"/>
 
             </par>
 
 
             <par>
-            <smilText region="topRegion3" dur="5s" top="20px"  textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >   <br/>              Une chirurgie micro-invasive
+            <smilText region="topRegion3" dur="5s" top="20px"  textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >                  Une chirurgie micro-invasive
              </smilText>
             <smilText region="leftRegion" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  > <br/> <br/> 
 
