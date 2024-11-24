@@ -40,11 +40,13 @@
             hnaya aktbi texte li raki haba dirih
             </smilText>
             </par> -->
-<!-- 
+
             <par>
              <smilText region="centerRegion3" dur="5s"   textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold" xml:space="preserve" >                  Parlons un peu de l'histoire de
                          la téléchirurgie</smilText>
+             <audio src="aud.mp3" clip_begin="2s" clip_end="4s"/>
             </par>
+
 
             <par>
              <smilText region="topRegion3" dur="5s"  textFontSize =" 38px"  textFontFamily="Courier New, monospace" textFontWeight="bold" xml:space="preserve">   <br/>              L’évolution de la chirurgie robotisée a été
@@ -55,7 +57,7 @@
      NASA dans les années 1970, en mettant l’accent sur son application potentielle
      pour les astronautes en orbite.Au cours des années 1980 et 1990, l’émergence
      de la chirurgie robotique a permis des avancées significatives vers la téléchirurgie.  </smilText>
-            </par> -->
+            </par>
 
             
             <par>
@@ -136,14 +138,14 @@
 
 
 
-            <!-- <par>
+            <par>
              <smilText region="centerRegion3" dur="5s"   textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >                 Cette nouvelle technologie a un  grand
                 impact sur la médecine. Allons voir quel est
                             cet impact.
              </smilText> 
-            </par> -->
+            </par>
 
-             <!-- <par>
+             <par>
              <smilText region="topRegion3" dur="5s" top="30px" textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold" xml:space="preserve"  >                        La précision du geste
              </smilText>
              <smilText region="leftRegion" dur="5s"   textFontSize =" 26px" textFontFamily="Courier New, monospace" xml:space="preserve"   >  
@@ -165,9 +167,9 @@
              </smilText>
              <img src="geste.png" region="rightRegion" top="140px" left="45px" dur="5s" />
 
-            </par> -->
+            </par>
 
-            <!-- <par>
+            <par>
              <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >         L’agrandissement du champ opératoire
              </smilText>
              <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >   Le robot zoome sur les zones clés pour une meilleure visibilité de la zone à opérer.
@@ -175,9 +177,9 @@
              <img src="realImg.png" region="rightRegion" dur="5s" />
              <img src="manipulation.png" region="leftRegion" dur="5s" />
              
-            </par> -->
+            </par>
 
-            <!-- <par>
+            <par>
             <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >  La vision 3D
              </smilText>
             <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >   Elle permet de visualiser les organes dans leur ensemble, avec leurs reliefs et leurs aspérités.
@@ -185,10 +187,10 @@
              <img src="realImg2.png" region="rightRegion" dur="5s" />
              <img src="manipulation2.png" region="leftRegion" dur="5s" />
 
-            </par> -->
+            </par>
 
 
-            <!-- <par>
+            <par>
             <smilText region="topRegion3" dur="5s" top="20px"  textFontSize =" 38px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >   <br/>              Une chirurgie micro-invasive
              </smilText>
             <smilText region="leftRegion" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  > <br/> <br/> 
@@ -208,10 +210,10 @@
              </smilText>
              <img src="nurse.png" region="rightRegion" left="40px" top="200px" dur="5s" />
 
-            </par> -->
+            </par>
 
 
-            <!-- <par>
+            <par>
             <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >                  Un temps d’opération optimisé
              </smilText>
             <smilText region="leftRegion" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >  
@@ -228,11 +230,11 @@
     d’anesthésie.
              </smilText>
              <img src="couloir.png" region="rightRegion" left="40px" top="100px" dur="5s" />
-            </par> -->
+            </par>
 
 
 
-            <!-- <par>
+            <par>
             <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >                      Une plus grande flexibilité
              </smilText>
             <smilText region="leftRegion" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  > 
@@ -252,10 +254,10 @@
     réduire les coûts.
              </smilText>
              <img src="consultation.png" region="rightRegion" left="40px" top="160px" dur="5s" />
-            </par> -->
+            </par>
 
 
-            <!-- <par>
+            <par>
             <smilText region="topRegion3" dur="5s"   textFontSize =" 35px" textFontFamily="Courier New, monospace" textFontWeight="bold"  xml:space="preserve"  >                 Elle facilite la collaboration chirurgicale
                            entre spécialistes 
              </smilText>
@@ -282,7 +284,7 @@
     différents lieux géographiques.
              </smilText>
              <img src="equipement.png" region="rightRegion" left="63px" top="130px" dur="5s" />
-            </par> -->
+            </par>
 
 
 
