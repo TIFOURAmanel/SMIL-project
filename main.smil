@@ -46,19 +46,20 @@
 
             <par>
              <smilText region="topRegion3" dur="5s"  textFontSize =" 38px"  textFontFamily="Courier New, monospace" textFontWeight="bold" xml:space="preserve">   <br/>              L’évolution de la chirurgie robotisée a été
-            marquée par des étapes importantes.  </smilText>
-             <img src="nasa.png"  region="centerRegion3"  dur="5s" />
+                marquée par des étapes importantes.  </smilText>
+             <img src="nasa.png"  region="centerRegion3"  dur="5s" left="520px"/>
              <smilText region="bottomRegion3" dur="5s"  textFontSize =" 26px" textFontFamily="Courier New, monospace" xml:space="preserve"  >  
-     Ce concept a d’abord été exploré par l’agence gouvernementale américaine
-     NASA dans les années 1970, en mettant l’accent sur son application potentielle
-     pour les astronautes en orbite.Au cours des années 1980 et 1990, l’émergence
-     de la chirurgie robotique a permis des avancées significatives vers la téléchirurgie.  </smilText>
+              Ce concept a d’abord été exploré par l’agence gouvernementale américaine
+           NASA dans les années 1970, en mettant l’accent sur son application potentielle
+           pour les astronautes en orbite.Au cours des années 1980 et 1990, l’émergence
+           de la chirurgie robotique a permis des avancées significatives vers la téléchirurgie.  </smilText>
             </par>
 
             
             <par>
              <smilText region="leftRegion" dur="5s" top="50px"  textFontSize =" 26px"  textFontFamily="Courier New, monospace" xml:space="preserve"> 
                  <br/>
+                 
     C’est au sein de l’armée qu’est née l’idée
     de concevoir des robots chirurgicaux capables 
     d’opérer à distance des soldats blessés en zone
@@ -74,14 +75,24 @@
     «opération Lindbergh», il a ouvert la voie
     à de nombreux confrères.
              </smilText>
-             <img src="war.png" top="80px" region="rightRegion" dur="5s" left="140px" />
+             <img src="war.png" top="130px" region="rightRegion" dur="5s" left="140px" />
             </par>
 
             <par>
-             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" xml:space="preserve" >   
+            <smilText region="leftRegion" dur="5s"  textFontSize =" 35px"  textFontFamily="Courier New, monospace" xml:space="preserve" textFontWeight="bold" >   
+             <br/>
+             
+             
+        En 2019: 
+        </smilText>
+
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 26px"  textFontFamily="Courier New, monospace" xml:space="preserve" >   
              <br/>
              <br/>
-        En 2019: <br/>  <br/>
+              
+
+
+        
       En Chine, une neurostimulation 
       du cerveau a été réalisée
       par le docteur Ling Zhipei,
@@ -89,15 +100,23 @@
       un patient atteint de la maladie
       de Parkinson.
              </smilText>
-             <img src="china.png" region="rightRegion" dur="5s" top="130px" left="100px"/>
+             <img src="chin.png" region="rightRegion" dur="5s" top="150px" left="100px"/>
             </par> 
 
 
             <par>
-             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" xml:space="preserve" >
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 35px"  textFontFamily="Courier New, monospace" xml:space="preserve" textFontWeight="bold" >   
+             <br/>
+             
+             
+        En 2021: 
+        </smilText>
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 26px"  textFontFamily="Courier New, monospace" xml:space="preserve" >
               <br/>
                <br/>
-         En 2021 : <br/>  <br/>
+       
+       
+
       Un patient situé à Haikou, dans
       la province chinoise de Hainan (sud),
       a subi une opération de remplacement
@@ -105,14 +124,20 @@
       d'un robot équipé de la technologie
       5G en utilisant les réseaux sans fil.
              </smilText>
-             <img src="hos.png" region="rightRegion" dur="5s" top="120px" left="80px"/>
+             <img src="hos.png" region="rightRegion" dur="5s" top="160px" left="90px"/>
             </par>
 
              <par>
-             <smilText region="leftRegion" dur="5s"  textFontSize =" 20px"  textFontFamily="Courier New, monospace" xml:space="preserve" > 
+ <smilText region="leftRegion" dur="5s"  textFontSize =" 35px"  textFontFamily="Courier New, monospace" xml:space="preserve" textFontWeight="bold" >   
+             <br/>
+     Le 11 septembre 2024:
+             
+        </smilText>
+
+             <smilText region="leftRegion" dur="5s"  textFontSize =" 26px"  textFontFamily="Courier New, monospace" xml:space="preserve" > 
               <br/>
               <br/>
-      Le 11 septembre 2024: <br/>
+       
       Une prouesse médicale a été réalisée
       depuis Bordeaux, le Dr Alberto Breda,
       président de la Société Européenne
@@ -123,7 +148,7 @@
       il a contrôlé à 8 000 km de là un robot
       chirurgical, retirant avec succès la tumeur. 
              </smilText>
-             <img src="doctor.png" region="rightRegion" dur="10s" top="60px" left="130px"/>
+             <img src="doctor.png" region="rightRegion" dur="5s" top="80px" left="150px"/>
             </par>
 
 
@@ -168,7 +193,7 @@
    pour une plus grande précision au cours
    de l’intervention.
              </smilText>
-             <img src="geste.png" region="rightRegion" top="140px" left="45px" dur="5s" />
+             <img src="geste.png" region="rightRegion" top="150px" left="45px" dur="5s" />
 
             </par>
 
@@ -177,8 +202,8 @@
              </smilText>
              <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  > <br/>        Le robot zoome sur les zones clés pour une meilleure visibilité de la zone à opérer.
              </smilText>
-             <img src="realImg.png" region="rightRegion" dur="5s" top="200px" left="70px"/>
-             <img src="manipulation.png" region="leftRegion" dur="5s" top="200px" left="50px"/>
+             <img src="realImg1.png" region="rightRegion" dur="5s" top="200px" left="120px"/>
+             <img src="manipulation1.png" region="leftRegion" dur="5s" top="200px" left="110px"/>
              
             </par>
 
@@ -187,7 +212,7 @@
              </smilText>
             <smilText region="topRegion3" dur="5s" top="30px"   textFontSize =" 25px" textFontFamily="Courier New, monospace"   xml:space="preserve"  >   <br/>       Elle permet de visualiser les organes dans leur ensemble, avec leurs reliefs et leurs aspérités.
              </smilText>
-             <img src="realImg2.png" region="rightRegion" dur="5s" top="200px" left="300px" />
+             <img src="realImg2.png" region="rightRegion" dur="5s" top="200px" left="150px" />
              <img src="manipulation2.png" region="leftRegion" dur="5s" top="200px" left="50px"/>
 
             </par>
